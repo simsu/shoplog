@@ -1,7 +1,9 @@
 {
   "name": "shoplog",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
+  "author": "simsu",
+  "description": "Nuxt.js 연습",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
